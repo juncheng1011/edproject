@@ -9,6 +9,6 @@ fun main(args: Array<String>) {
 
 class Human {
     fun hello(){
-        println("Hello kotlin")
+        println("Hello kotlin");
     }
 }
